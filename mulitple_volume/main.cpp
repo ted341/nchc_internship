@@ -72,7 +72,7 @@ class RadioButtonAuditor : public SoDialogChoiceAuditor
 			ptClipShape->whichChild = SO_SWITCH_ALL;
 	}
 };
-
+ 
 class CheckBoxAuditor : public SoDialogCheckBoxAuditor
 {
 	virtual void dialogCheckBox(SoDialogCheckBox *cpt)
