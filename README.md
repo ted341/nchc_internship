@@ -9,7 +9,7 @@
 ## Motivation
   
 ## Breakdown
-### Phase 0: F
+### Phase 0: Familiarize with Open Inventor
 ### Phase 1: Single Volume Visualization
 ### Phase 2: Multiple Volume Visualization
 ### Phase 3: Visualization in VR
