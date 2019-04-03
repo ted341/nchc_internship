@@ -1,3 +1,3 @@
 # Multiple Volume Visualization
 ## Preview
-!()[mv1.png =100*100] !()[mv2.png =100*100]
+<img src="mv1.png" width="200" height="200" />
