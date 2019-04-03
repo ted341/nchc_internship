@@ -7,10 +7,11 @@
 - **Tasks:** mainly 3D data visualization
 - **Tools:** Open Inventor SDK 9.8, Visual Studio 2017
 ## Motivation
-  
+TBD
 ## Breakdown
 ### Phase 0: Familiarize with Open Inventor
 ### Phase 1: Single Volume Visualization
 ### Phase 2: Multiple Volume Visualization
 ### Phase 3: Visualization in VR
 ## Reflection
+TBD
