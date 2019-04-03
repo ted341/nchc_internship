@@ -1,4 +1,4 @@
-# Visualization of single volume
+# Single Volume Visualization
 ## Preview
 ![](tf.png)
 ![](cp.png)
