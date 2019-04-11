@@ -7,7 +7,9 @@
 - **Tasks:** mainly 3D data visualization
 - **Tools:** Open Inventor SDK 9.8, Visual Studio 2017
 ## Motivation
-TBD
+- To explore the potential and performance of Open Inventor SDK.
+- To employ it in 3D data visualization by building a simple interface.
+- To learn rendering basics in CG and familiarize with the API.
 ## Breakdown
 ### Phase 0: Familiarize with Open Inventor
 TBD
