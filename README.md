@@ -1,6 +1,6 @@
-# 2018 NCHC Internship
+# Internship Documentation
 ## Brief Intro
-- **Period:** July to December (2nd half)
+- **Period:** July to December, 2018 (2nd half)
 - **Status:** 3rd year CS student, NCTU
 - **Locale:** [VIML@NCHC](http://viml.nchc.org.tw/home/)
 - **Attendance:** once a week, 8 hours each
