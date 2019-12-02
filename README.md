@@ -12,12 +12,6 @@
 - To learn rendering basics in CG and familiarize with the API.
 ## Breakdown
 ### Phase 0: Familiarize with Open Inventor
-TBD
 ### Phase 1: Single Volume Visualization
-TBD
 ### Phase 2: Multiple Volume Visualization
-TBD
 ### Phase 3: Visualization in VR
-TBD
-## Reflection
-TBD
