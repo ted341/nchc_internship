@@ -13,5 +13,9 @@
 ## Breakdown
 ### Phase 0: Familiarize with Open Inventor
 ### Phase 1: Single Volume Visualization
+<div style="display: flex;">
+  <img src="single_volume/cp.png" style="margin:10 auto;" width="45%" />
+  <img src="single_volume/tf.png" style="margin:10 auto;" width="45%" />
+</div>
 ### Phase 2: Multiple Volume Visualization
 ### Phase 3: Visualization in VR
