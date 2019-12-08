@@ -1,5 +1,4 @@
-# Internship Documentation
-## Brief Intro
+## Brief
 - **Period:** July to December, 2018 (2nd half)
 - **Status:** 3rd year CS student, NCTU
 - **Locale:** [VIML@NCHC](http://viml.nchc.org.tw/home/)
