@@ -20,10 +20,10 @@
 
 ### Phase 2: Multiple Volume Visualization
 <div style="display: flex;">
-  <img src="multiple_volume/mv1.png" style="margin:10 auto;" width="45%" />
-  <img src="multiple_volume/mv2.png" style="margin:10 auto;" width="45%" />
-  <img src="multiple_volume/mv4.png" style="margin:10 auto;" width="45%" />
-  <img src="multiple_volume/mv5.png" style="margin:10 auto;" width="45%" />
+  <img src="multiple_volume/mv1.PNG" style="margin:10 auto;" width="45%" />
+  <img src="multiple_volume/mv2.PNG" style="margin:10 auto;" width="45%" />
+  <img src="multiple_volume/mv4.PNG" style="margin:10 auto;" width="45%" />
+  <img src="multiple_volume/mv5.PNG" style="margin:10 auto;" width="45%" />
 </div>
 
 ### Phase 3: Visualization in VR
