@@ -5,6 +5,7 @@
 - **Attendance:** once a week, 8 hours each
 - **Tasks:** mainly 3D data visualization
 - **Tools:** Open Inventor SDK 9.8, Visual Studio 2017
+[Here](https://drive.google.com/open?id=1oIqtGDZVdxteLaew-9zQLW-10UpUObEf)is a brief presentation introducing the usage of the API and summarizing the work I have done.
 ## Motivation
 - To explore the functionalities and performance of Open Inventor SDK.
 - To employ it in 3D data visualization by building an interactive interface.
